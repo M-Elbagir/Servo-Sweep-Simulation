@@ -2,6 +2,8 @@
 
 Four servo motors performing a sweep motion simultaneously.
 
+Simulation link: https://www.tinkercad.com/things/eNNwBBfins9-servo-sweep?sharecode=LOrncwCzb-F7oko5sed9MvGr9W2A6WsWV3sYuujP-GM
+
 ## Software
 
 The simulation is performed in Tinkercad because it provides a wide range of components that are useful for this project, including the Arduino Uno, a mini breadboard, an external power supply, and servo motors.
