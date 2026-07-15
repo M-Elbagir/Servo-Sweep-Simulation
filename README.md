@@ -2,7 +2,7 @@
 
 Four servo motors performing a sweep motion simultaneously.
 
-Simulation link: https://www.tinkercad.com/things/eNNwBBfins9-servo-sweep?sharecode=LOrncwCzb-F7oko5sed9MvGr9W2A6WsWV3sYuujP-GM
+Simulation: https://www.tinkercad.com/things/eNNwBBfins9-servo-sweep?sharecode=LOrncwCzb-F7oko5sed9MvGr9W2A6WsWV3sYuujP-GM
 
 ## Software
 
